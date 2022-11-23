@@ -18,7 +18,9 @@ This project acts as a guide for people who are looking to start a competetive r
 Based on this analysis we will provide solution for restaurant business owners. We will frame 3 questions for this analysis.
 
 Question 1: Where to locate the restaurant to maximize revenues?
+
 Question 2: What should be the food items on the menu based in popularity?
+
 Question 3: What type of restaurant earns most revenues?
 
 ## File Descriptions <a name="files"></a>
